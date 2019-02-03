@@ -1,0 +1,95 @@
+.navbar {
+    background-color: #5ee047;
+    font-size: 15px;
+    text-decoration: underline;
+}
+.navbar {
+    justify-content: space-between;
+}
+.welcome {
+    text-align: center;
+}
+.container-fluid {
+    background: #5ee047;
+    padding-top: 50px;
+
+}
+
+
+.dropdownMenuLink{
+    padding-block-start: 20px;
+}
+
+#link {
+    box-shadow:  10px 10px 10px 5px grey;
+}
+.container {
+    margin-top: 30px;
+    max-width: 100%;
+    position: relative;
+    z-index: 9;
+    max-height: 100%;
+   
+}
+#sign  {
+    background:#e3e6ea;
+    padding-top: 30px;
+    text-decoration-line: none;
+
+}
+
+.carousel-inner{
+    width: 1300px;
+    height: 480px;
+}
+.card-group {
+    text-align: center;
+    padding-top: 20px;
+}
+#brand >div {
+    background: #e3e6ea;
+    padding-top: 20px;
+    width: 1300px;
+    height: 90px;
+    
+}
+
+ #brand .carousel-item {
+    height: 80px;
+    width: 550px;
+    position: relative;
+    padding-left: 100px;
+    margin-left: 150px;
+    position: center;
+    
+}
+
+.mojFooter{
+    background-color: #f8f8f8;
+    color: #00a651;
+    padding-top: 0px;
+    border-top: 1px solid #e7e7e7;
+    margin-bottom: 0px;
+}
+
+.bottom-footer{
+    border-top: 1px solid #00a651;
+    margin-top: 0px;
+    padding-top: 7px;
+    color: #00a651;
+
+}
+
+.footer-nav li{
+    display: inline;
+    padding: 0px 40px;
+}
+
+.footer-nav a{
+    color: grey;
+    text-decoration: none;
+}
+
+
+
+
